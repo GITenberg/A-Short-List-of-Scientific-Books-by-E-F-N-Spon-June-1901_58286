@@ -1,5 +1,8 @@
 _repo: A-Short-List-of-Scientific-Books-by-E-F-N-Spon-June-1901_58286
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58286-h/images/i_cover.jpg
 creator:
   authors:
   - agent_name: Spon, E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49513'
     url: http://www.gutenberg.org/2009/agents/49513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58286#A-Short-List-of-Scientific-Books-by-E-F-N-Spon-June-1901
 gutenberg_issued: '2018-11-14'
 gutenberg_type: Text
 identifiers:
