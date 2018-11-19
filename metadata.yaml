@@ -1,0 +1,23 @@
+_repo: A-Short-List-of-Scientific-Books-by-E-F-N-Spon-June-1901_58286
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Spon, E.
+    gutenberg_agent_id: '49512'
+    url: http://www.gutenberg.org/2009/agents/49512
+  - agent_name: Spon, F. N.
+    gutenberg_agent_id: '49513'
+    url: http://www.gutenberg.org/2009/agents/49513
+description: ''
+gutenberg_issued: '2018-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Short List of Scientific Books by E. & F. N. Spon. June 1901
+url: http://www.gutenberg.org/ebooks/58286
